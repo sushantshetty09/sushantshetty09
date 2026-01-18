@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DreamCar | Premium Car Rental</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@600;700&display=swap"
+        rel="stylesheet">
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+
+<body class="gradient-bg">
+    <!-- Navbar -->
+    <nav class="navbar">
+        <div class="container">
+            <a href="#" class="brand">
+                <i data-lucide="car" class="brand-icon"></i>
+                <span>Dream<span>Car</span></span>
+            </a>
+            <div class="nav-links">
+                <a href="#home">Home</a>
+                <a href="#cars">Browse</a>
+                <a href="#how-it-works">How it Works</a>
+                <a href="client/index.html" class="btn btn-outline">Go to App</a>
+                <a href="#" class="btn btn-primary">Book Now</a>
+            </div>
+            <div class="mobile-toggle">
+                <i data-lucide="menu"></i>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <header id="home" class="hero">
+        <div class="container hero-grid">
+            <div class="hero-content">
+                <h1 class="hero-title">Experience <span class="gradient-text">Premium</span> Freedom</h1>
+                <p class="hero-subtitle">Rent luxury, exotic, and performance vehicles from our elite fleet. Your
+                    premium journey starts here.</p>
+                <div class="hero-btns">
+                    <a href="#cars" class="btn btn-primary btn-lg">View Fleet</a>
+                    <a href="#" class="btn btn-outline btn-lg">Learn More</a>
+                </div>
+                <div class="hero-stats">
+                    <div class="stat">
+                        <h3>500+</h3>
+                        <p>Luxury Cars</p>
+                    </div>
+                    <div class="stat">
+                        <h3>10k+</h3>
+                        <p>Customers</p>
+                    </div>
+                    <div class="stat">
+                        <h3>50+</h3>
+                        <p>Locations</p>
+                    </div>
+                </div>
+            </div>
+            <div class="hero-image">
+                <img src="https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?q=80&w=2070&auto=format&fit=crop"
+                    alt="Luxury Car">
+                <div class="hero-glow"></div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Featured Cars -->
+    <section id="cars" class="featured">
+        <div class="container">
+            <div class="section-header">
+                <h2>Our <span class="gradient-text">Elite Fleet</span></h2>
+                <p>Curated selection of world-class vehicles</p>
+            </div>
+            <div class="car-grid">
+                <!-- Car 1 -->
+                <div class="car-card glass">
+                    <div class="car-img">
+                        <img src="https://images.unsplash.com/photo-1560958089-b8a1929cea89?q=80&w=2071&auto=format&fit=crop"
+                            alt="Tesla">
+                        <span class="badge">Electric</span>
+                    </div>
+                    <div class="car-body">
+                        <h3>Tesla Model S</h3>
+                        <div class="car-specs">
+                            <span><i data-lucide="users"></i> 5</span>
+                            <span><i data-lucide="zap"></i> Auto</span>
+                            <span><i data-lucide="gauge"></i> 2.1s</span>
+                        </div>
+                        <div class="car-footer">
+                            <span class="price">$150<span>/day</span></span>
+                            <a href="#" class="btn btn-primary btn-sm">Book Now</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Car 2 -->
+                <div class="car-card glass">
+                    <div class="car-img">
+                        <img src="https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=2070&auto=format&fit=crop"
+                            alt="Porsche">
+                        <span class="badge">Sports</span>
+                    </div>
+                    <div class="car-body">
+                        <h3>Porsche 911 Carrera</h3>
+                        <div class="car-specs">
+                            <span><i data-lucide="users"></i> 2</span>
+                            <span><i data-lucide="zap"></i> Auto</span>
+                            <span><i data-lucide="gauge"></i> 3.2s</span>
+                        </div>
+                        <div class="car-footer">
+                            <span class="price">$250<span>/day</span></span>
+                            <a href="#" class="btn btn-primary btn-sm">Book Now</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Car 3 -->
+                <div class="car-card glass">
+                    <div class="car-img">
+                        <img src="https://images.unsplash.com/photo-1555215695-3004980ad54e?q=80&w=2070&auto=format&fit=crop"
+                            alt="BMW">
+                        <span class="badge">SUV</span>
+                    </div>
+                    <div class="car-body">
+                        <h3>BMW X5 M-Sport</h3>
+                        <div class="car-specs">
+                            <span><i data-lucide="users"></i> 5</span>
+                            <span><i data-lucide="zap"></i> Auto</span>
+                            <span><i data-lucide="gauge"></i> 4.5s</span>
+                        </div>
+                        <div class="car-footer">
+                            <span class="price">$130<span>/day</span></span>
+                            <a href="#" class="btn btn-primary btn-sm">Book Now</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Why Choose Us -->
+    <section id="how-it-works" class="benefits">
+        <div class="container grid-4">
+            <div class="benefit-card glass">
+                <i data-lucide="shield-check" class="benefit-icon"></i>
+                <h3>Elite Guard</h3>
+                <p>Comprehensive insurance for peace of mind.</p>
+            </div>
+            <div class="benefit-card glass">
+                <i data-lucide="clock" class="benefit-icon"></i>
+                <h3>Speed Booking</h3>
+                <p>Reserve your car in under 60 seconds.</p>
+            </div>
+            <div class="benefit-card glass">
+                <i data-lucide="map-pin" class="benefit-icon"></i>
+                <h3>Free Delivery</h3>
+                <p>We deliver right to your premium location.</p>
+            </div>
+            <div class="benefit-card glass">
+                <i data-lucide="headphones" class="benefit-icon"></i>
+                <h3>24/7 Concierge</h3>
+                <p>Always available for our premium members.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-brand">
+                    <a href="#" class="brand">
+                        <i data-lucide="car" class="brand-icon"></i>
+                        <span>Dream<span>Car</span></span>
+                    </a>
+                    <p>Redefining luxury car rentals with premium service and an elite fleet.</p>
+                </div>
+                <div class="footer-links">
+                    <h4>Company</h4>
+                    <ul>
+                        <li><a href="#">About Us</a></li>
+                        <li><a href="#">Fleet</a></li>
+                        <li><a href="#">Pricing</a></li>
+                        <li><a href="#">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="footer-social">
+                    <h4>Follow Us</h4>
+                    <div class="social-icons">
+                        <a href="#"><i data-lucide="facebook"></i></a>
+                        <a href="#"><i data-lucide="twitter"></i></a>
+                        <a href="#"><i data-lucide="instagram"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 DreamCar Rental. All premium rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        lucide.createIcons();
+        window.addEventListener('scroll', () => {
+            document.querySelector('.navbar').classList.toggle('scrolled', window.scrollY > 50);
+        });
+    </script>
+</body>
+
+</html>
