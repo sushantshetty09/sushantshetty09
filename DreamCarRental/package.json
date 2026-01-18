@@ -1,0 +1,9 @@
+{
+    "name": "dream-car-rental",
+    "version": "1.0.0",
+    "scripts": {
+        "build": "cd client && npm install && npm run build",
+        "server": "cd server && npm install && npm start",
+        "install-all": "npm install && cd client && npm install && cd ../server && npm install"
+    }
+}
