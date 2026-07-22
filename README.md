@@ -104,10 +104,10 @@ Developer sushant = new Developer() {
 
 | # | Project | Description | Stack | Links |
 |---|---------|-------------|-------|-------|
-| 🔬 | **E-Prayog** | Virtual science experiment platform for Karnataka PUC 1 & 2 students — 40+ interactive simulations with AI explanations and a Cosmic Science Universe theme | `React` `Vite` `Three.js` `Firebase` `Gemini AI` | [Live Demo](https://e-prayog.vercel.app/) |
-| 📱 | **Scan2Serve** | Smart QR-based digital menu system for restaurants — includes Admin, Hotel owner & Customer dashboards with Firebase auth and approval workflows | `React` `Firebase` `Tailwind` `QR Code` | [Live Demo](https://scan2-serve.vercel.app/) |
-| 🚛 | **Astra Flow** | Real-time logistics driver tracking platform — live GPS via browser geolocation, WebSocket-based control tower dashboard, weather & route intelligence | `Next.js` `FastAPI` `Socket.IO` `Supabase` `Leaflet` | [Live Demo](https://astra-flow-frontend-n1tp.onrender.com/) |
-| 🩸 | **Rakthasetu** | Healthcare connectivity platform by Team SUPRA — blood donation network with location-based donor matching and real-time notifications | `React` `Node.js` `Firebase` | [Live Demo](https://rakthasetu.netlify.app/) |
+| 1 | **E-Prayog** | Virtual science experiment platform for Karnataka PUC 1 & 2 students — 40+ interactive simulations with AI explanations and a Cosmic Science Universe theme | `React` `Vite` `Three.js` `Firebase` `Gemini AI` | [Live Demo](https://e-prayog.vercel.app/) |
+| 2 | **Scan2Serve** | Smart QR-based digital menu system for restaurants — includes Admin, Hotel owner & Customer dashboards with Firebase auth and approval workflows | `React` `Firebase` `Tailwind` `QR Code` | [Live Demo](https://scan2-serve.vercel.app/) |
+| 3 | **Astra Flow** | Real-time logistics driver tracking platform — live GPS via browser geolocation, WebSocket-based control tower dashboard, weather & route intelligence | `Next.js` `FastAPI` `Socket.IO` `Supabase` `Leaflet` | [Live Demo](https://astra-flow-frontend-n1tp.onrender.com/) |
+| 4 | **Rakthasetu** | Healthcare connectivity platform by Team SUPRA — blood donation network with location-based donor matching and real-time notifications | `React` `Node.js` `Firebase` | [Live Demo](https://rakthasetu.netlify.app/) |
 
 ---
 ## 📊 GitHub Stats
@@ -131,19 +131,6 @@ Developer sushant = new Developer() {
 
 </div>
 
----
-
-## 🐍 Contribution Grid
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sushantshetty09/sushantshetty09/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sushantshetty09/sushantshetty09/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sushantshetty09/sushantshetty09/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
 
 ## 🎯 Currently Working On
 
@@ -151,7 +138,7 @@ Developer sushant = new Developer() {
 - Backend architecture & API integration
 - Java DSA
 - ML foundations with Pandas / NumPy
-- Hackathon-ready production builds
+- RAG ,Training LLM's
 
 ---
 
