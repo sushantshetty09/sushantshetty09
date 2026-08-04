@@ -1,123 +1,58 @@
+<h1 align="center">Hi 👋, I'm Sushant Shetty</h1>
+
+<h3 align="center">A Passionate Full-Stack Developer & AI Builder from India 🇮🇳</h3>
+
+
+
+
+- 🚀 Third-year **CSE @ Atria Institute of Technology**, working as a full-stack developer & production-grade apps, not just tutorials
+  
+- 🔭 I'm currently working on **Full-Stack Applications, Flutter Applications & building RAG Pipelines**
+
+- 🌱 I'm currently learning **RAG, LLMs, Django, FastAPI, LangChain, and System Design**
+
+- 👨‍💻 All of my projects are available at **https://github.com/sushantshetty09**
+
+- 🌱 Currently deepening **backend architecture, scalable systems, and RAG / LLM fine-tuning**
+  
+- 💻 All projects open-source on [GitHub](https://github.com/sushantshetty09) — code first, talk second
+  
+- 🎯 Open to **Full Stack / SDE roles** — ask me about full-stack development, AI integration, or real-time systems
+
+- 💬 Always excited to talk about **Machine Learning, Web Development, AI, and building scalable applications**
+  
+- 📫 Reach out to me at **sushantshetty09@gmail.com**
+
+---
+
+## 🧰 Tech Stack
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=220&text=Sushant%20Shetty&fontSize=90&fontAlign=50&fontAlignY=50&color=0:0d1117,100:161b22&fontColor=ffffff" />
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=flat&logo=gnu-bash&logoColor=white)
 
-Coder &nbsp;·&nbsp; Engineer &nbsp;·&nbsp; Builder
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Sass](https://img.shields.io/badge/sass-%23CC6699.svg?style=flat&logo=sass&logoColor=white) ![Three.js](https://img.shields.io/badge/three.js-black?style=flat&logo=three.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black)
 
-<br/>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Socket.io](https://img.shields.io/badge/socket.io-black?style=flat&logo=socket.io&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=800&color=E6EDF3&center=true&vCenter=true&width=700&lines=CSE+%40+Atria+Institute+of+Technology;Full+Stack+Development+%2B+AI+Integration;Java+DSA+%7C+Hackathon+Builder;Open+to+Collaborate+%26+Build" />
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![GoogleCloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
 
-<br/><br/>
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=%2300C7B7) ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat&logo=render&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
 
-<img src="https://komarev.com/ghpvc/?username=sushantshetty09&label=Profile+Views&color=238636&style=flat-square&labelColor=161b22" />
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
+
+![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
-
-<img align="right" width="220" src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" alt="Coding GIF" />
-
-```java
-Developer sushant = new Developer() {
-    name         = "Sushant Shetty",
-    alias        = "Sushant09",
-    location     = Country.India_Karnataka,
-
-    skills = new[] {
-        Language.Java,
-        Language.JavaScript,
-        Language.Python,
-        Language.Dart,
-        Language.R;
-        Framework.React,
-        Framework.TailwindCSS,
-        Runtime.NodeJS,
-        Database.Firebase,
-        Tools.Git,
-    };
-
-    currentlyLearning = new[] {
-        Backend.APIs,
-        Architecture.Scalable_Systems,
-        ML.Pandas_NumPy,
-    };
-
-    projects = new[] {
-        Project.E_Prayog,
-        Project.Scan2Serve,
-        Project.Astra_Flow,
-        Project.Rakthasetu,
-    };
-
-    status = "Building things that actually matter 🚀",
-}
-```
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-**Web & Frameworks**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-**Database & Tools**
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-**Machine Learning**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-
-</div>
-
----
-
-
-## 🚀 Projects
-
-| # | Project | Description | Stack | Links |
-|---|---------|-------------|-------|-------|
-| 1 | **E-Prayog** | Virtual science experiment platform for Karnataka PUC 1 & 2 students — 40+ interactive simulations with AI explanations and a Cosmic Science Universe theme | `React` `Vite` `Three.js` `Firebase` `Gemini AI` | [Live Demo](https://e-prayog.vercel.app/) |
-| 2 | **Scan2Serve** | Smart QR-based digital menu system for restaurants — includes Admin, Hotel owner & Customer dashboards with Firebase auth and approval workflows | `React` `Firebase` `Tailwind` `QR Code` | [Live Demo](https://scan2-serve.vercel.app/) |
-| 3 | **Astra Flow** | Real-time logistics driver tracking platform — live GPS via browser geolocation, WebSocket-based control tower dashboard, weather & route intelligence | `Next.js` `FastAPI` `Socket.IO` `Supabase` `Leaflet` | [Live Demo](https://astra-flow-frontend-n1tp.onrender.com/) |
-| 4 | **Rakthasetu** | Healthcare connectivity platform by Team SUPRA — blood donation network with location-based donor matching and real-time notifications | `React` `Node.js` `Firebase` | [Live Demo](https://rakthasetu.netlify.app/) |
-
----
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img
-  src="https://streak-stats.demolab.com?user=sushantshetty09&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3fb950&fire=f78166&currStreakLabel=3fb950&sideLabels=adbac7&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681&border_radius=8"
-  alt="GitHub streak stats"
-/>
+
+<img src="https://streak-stats.demolab.com?user=sushantshetty09&hide_border=true&background=0d1117&ring=3fb950&fire=f78166&currStreakLabel=3fb950&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681" alt="GitHub streak" />
 
 </div>
 
@@ -147,32 +82,19 @@ Developer sushant = new Developer() {
 
 ---
 
-## 🎯 Currently Working On
 
-- Full stack product development
-- Backend architecture & API integration
-- Java DSA
-- ML foundations with Pandas / NumPy
-- RAG ,Training LLM's
+## 🔗 Connect with Me
 
----
+<h3 align="center">Connect with me</h3>
 
-## 🔗 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sushant%20Shetty-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushant-shetty-083678330)  
-
-[![GitHub](https://img.shields.io/badge/GitHub-sushantshetty09-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sushantshetty09)  
-
-[![Email](https://img.shields.io/badge/Gmail-sushantshetty09%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sushantshetty09@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-*"Jack of all trades, master of none."*
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sushantshetty09">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/sushantshetty09">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
