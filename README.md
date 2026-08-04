@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sushant Shetty</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sushantshetty09&label=Profile%20views&color=3fb950&style=flat" alt="profile views" />
+</p>
 
 <h3 align="center">A Passionate Full-Stack Developer & AI Builder from India 🇮🇳</h3>
 
